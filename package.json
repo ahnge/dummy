@@ -1,0 +1,14 @@
+{
+  "name": "firstnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nayzaw",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
